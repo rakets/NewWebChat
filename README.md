@@ -1,5 +1,5 @@
 # Webchat
-Project for subject "OOP on Python" at WSPA, Lublin
+Project for subject "OOP on Python" at WSPA, Lublin 2 semestr
 
 
 for start server, please write in terminal:
