@@ -1,8 +1,10 @@
 # Webchat
 Project for subject "OOP on Python" at WSPiA, Lublin 2 semestr
 
+may need to be downloaded channels, django: pip install channels
+pip install django or via IDE
 
-for start server, please write in terminal:
+for start server, please write in terminal: cd wechatpp python manage.py runserver
     cd wechatpp
     python manage.py runserver
 
